@@ -1,0 +1,19 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "target": "ES2017",
+    "outDir": "build",
+    "lib": ["es2017"],
+    "types": ["node"],
+    "newLine": "lf",
+    "declaration": false,
+    "sourceMap": false,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "disableSizeLimit": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true
+  }
+}
