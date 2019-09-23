@@ -1,10 +1,10 @@
 {
   "name": "@titus/api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A client to make it easier to fetch from my api",
   "main": "build/index.js",
   "repository": "https://github.com/TitusEntertainment/titus-api-client.git",
-  "author": "titus",
+  "author": "titus_entertainment",
   "license": "MIT",
   "keywords": [
     "client",
@@ -14,7 +14,6 @@
   ],
   "devDependencies": {
     "@types/node": "^12.7.5",
-    "nodemon": "^1.19.2",
     "typescript": "^3.6.3"
   },
   "dependencies": {
