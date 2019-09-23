@@ -1,5 +1,5 @@
 {
-  "name": "@titus/api",
+  "name": "@titus_entertainment/api",
   "version": "1.0.0",
   "description": "A client to make it easier to fetch from my api",
   "main": "build/index.js",
