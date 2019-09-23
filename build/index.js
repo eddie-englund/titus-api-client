@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const node_fetch_1 = require("node-fetch");
 class TitusClient {
     constructor(config = {}) {
-        this.BaseUrl = 'http://titusentertainment.xyz:3200/api';
+        this.BaseUrl = 'http://titusentertainment.xyz/api';
         this.config = config;
         if (config.url) {
             this.BaseUrl = config.url;
@@ -35,7 +35,7 @@ class TitusClient {
             .then(res => {
             if (!res.data)
                 return Promise.resolve({ sucsess: false, data: {} });
-            return Promise.resolve(res);
+            return Promise.resolve(res.data);
         });
     }
     getMeme() {

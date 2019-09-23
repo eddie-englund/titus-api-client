@@ -10,7 +10,7 @@ interface ObjectLiteral {
 
 export class TitusClient {
   private config: ApiOptions;
-  public BaseUrl = 'http://titusentertainment.xyz:3200/api';
+  public BaseUrl = 'http://titusentertainment.xyz/api';
 
   public constructor(config: ApiOptions = {}) {
     this.config = config;
@@ -47,7 +47,7 @@ export class TitusClient {
       .then(res => res.json())
       .then(res => {
         if (!res.data) return Promise.resolve({ sucsess: false, data: {} });
-        return Promise.resolve(res);
+        return Promise.resolve(res.data);
       });
   }
 
