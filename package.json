@@ -1,6 +1,6 @@
 {
   "name": "@titus_entertainment/api",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A client to make it easier to fetch from my api",
   "main": "build/index.js",
   "repository": "git+https://github.com/TitusEntertainment/titus-api-client.git",
