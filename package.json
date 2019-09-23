@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A client to make it easier to fetch from my api",
   "main": "build/index.js",
-  "repository": "https://github.com/TitusEntertainment/titus-api-client.git",
+  "repository": "git+https://github.com/TitusEntertainment/titus-api-client.git",
   "author": "titus_entertainment",
   "license": "MIT",
   "keywords": [
@@ -18,5 +18,13 @@
   },
   "dependencies": {
     "node-fetch": "^2.6.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/TitusEntertainment/titus-api-client/issues"
+  },
+  "homepage": "https://github.com/TitusEntertainment/titus-api-client#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": false
 }
