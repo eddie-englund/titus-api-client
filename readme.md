@@ -1,4 +1,4 @@
-# @titus/api
+# @titus_creations/api
 
 A lightweight and easy to use client wrapper for my [reddit caching api](https://titusentertainment/fetch-api).
 
@@ -8,6 +8,9 @@ A lightweight and easy to use client wrapper for my [reddit caching api](https:/
 - Features
 - Installation
 - Common Usage
+- Licence
+- Contribution
+- Final Words
 
 ## Motivation
 
@@ -69,3 +72,13 @@ Avalible methods:
 - getUnixPorn();
 - getNsfw();
 - getHentai();
+
+## License
+
+<img src="https://i.imgur.com/rAvP1k0.jpg" width="100" >
+
+**@titus_creations/api** © [Titus](https://github.com/TitusEntertainment)
+Authored and maintained by Titus.
+
+> GitHub [@TitusEntertainment](https://github.com/Titus)
+> Npm [@Titus_entertainment]()
