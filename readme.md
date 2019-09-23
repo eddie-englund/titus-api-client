@@ -26,18 +26,18 @@ Instead of having to define functions, queries and having to get node-fetch amon
 
 node:
 
-    npm i @titus/api
+    npm i @titus_creations/api
 
 yarn
 
-    yarn add @titus/api
+    yarn add @titus_creations/api
 
 ## Common Usage
 
 Simply get the client by deconstructing the require.
 
 ```js
-const { TitusClient } = require('@titus/client');
+const { TitusClient } = require('@titus_creations/api');
 ```
 
 Then initalize it
