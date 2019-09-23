@@ -8,9 +8,8 @@ A lightweight and easy to use client wrapper for my [reddit caching api](https:/
 - Features
 - Installation
 - Common Usage
-- Licence
 - Contribution
-- Final Words
+- Licence and Final Words
 
 ## Motivation
 
@@ -73,9 +72,17 @@ Avalible methods:
 - getNsfw();
 - getHentai();
 
-## License
+## Contributing
+
+Would you like to contribute to this project?
+
+if you have a change you would like to make to the code please provide a code sample and a reason for the change.
+
+## Licence and Final Words
 
 <img src="https://i.imgur.com/rAvP1k0.jpg" width="100" >
+
+I would like to thank B3U for giving me this idea in the middle of the night and helping me along the way!
 
 **@titus_creations/api** © [Titus](https://github.com/TitusEntertainment)
 Authored and maintained by Titus.
