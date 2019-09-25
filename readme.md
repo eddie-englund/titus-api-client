@@ -82,10 +82,10 @@ if you have a change you would like to make to the code please provide a code sa
 
 <img src="https://i.imgur.com/rAvP1k0.jpg" width="100" >
 
-I would like to thank B3U for giving me this idea in the middle of the night and helping me along the way!
+I would like to thank [2D]() for giving me this idea in the middle of the night and helping me along the way!
 
 **@titus_creations/api** © [Titus](https://github.com/TitusEntertainment)
 Authored and maintained by Titus.
 
 > GitHub [@TitusEntertainment](https://github.com/Titus)
-> Npm [@Titus_entertainment]()
+> Npm [@Titus_entertainment](https://github.com/LolWastedJS)
