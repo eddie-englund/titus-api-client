@@ -46,8 +46,8 @@ export class TitusClient {
     return fetch(this.BaseUrl, this.queryOpts(query))
       .then(res => res.json())
       .then(res => {
-        if (!res.data) return Promise.resolve({ sucsess: false, data: {} });
-        return Promise.resolve(res.data);
+        if (!res.data) return Promise.resolve({ success: false, data: {} });
+        return Promise.resolve({ success: true, data: res.data });
       });
   }
 
