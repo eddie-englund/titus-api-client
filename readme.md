@@ -1,4 +1,4 @@
-# @titus_creations/api
+# @titus_entertainment/api
 
 A lightweight and easy to use client wrapper for my [reddit caching api](https://titusentertainment/fetch-api).
 
